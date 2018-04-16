@@ -1,4 +1,4 @@
-package com.tinymood.dom;
+package com.rannn.dom;
 
 // 保存books.xml的数据结构
 public class Book {
